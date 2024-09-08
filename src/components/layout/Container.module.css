@@ -17,3 +17,8 @@
     flex-direction: column;
     justify-content: flex-start;
 }
+
+.column h1 {
+    flex-direction: column;
+    justify-content: flex-start;
+}
